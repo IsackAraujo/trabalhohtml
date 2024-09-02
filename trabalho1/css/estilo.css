@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+input[type="search"],
+select
+{
+   padding: 10px;
+   border: 1px solid #ccc;
+   border-radius: 10px;
+   color:#333;
+}
+
+.btn-border{
+    border-radius: 5px;
+}
+
+.btn-pad{
+    padding: 1rem 2.5rem 1rem 2.5rem;
+}
+
+.footer li{
+    list-style-type: none;
+}
+
+.footer-color{
+    color: #ccc;
+}
+
+.margin{
+    margin: 1rem 0 1rem 0;
+
+}
+
+.margin-2{
+    margin: 2rem 0 2rem 0;
+
+}
+
+.bg-color{
+    background-color: #ccc;
+}
+
+.position-right{
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    text-decoration: none;
+    color: #333;
+}
+
+.position-left{
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    text-decoration: none;
+    color: #333;
+}
+
+.position-center{
+    position: absolute;
+    right: 45%;
+    top: 95%;
+    text-decoration: none;
+    color: #333;
+}
+
+.list{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.list li{
+    display: inline;
+}
+
+.list a{
+    color: #333;
+}
+
+.secaoPrincipal{
+    padding-top: 5%;
+    padding-left: 10%;
+}
+
+.carroselPrincipal{
+    padding-top: 1%;
+}
+
+.imagens-embaixoCarrosel{
+    padding-top: 1%;
+    display: flex;
+    
+}
+
+.imagens-embaixoCarrosel img {
+
+    width: 170px;
+    height: 100px;
+    margin: 0 10px; /* Espaçamento entre as imagens */
+}
+
+.imagens-Carrosel img {
+    width: 200px;
+    height: 500px;
+    margin: 0 10px;
+} 
+
+.carroselEntorno{
+    padding-top: 1%;
+    padding-right: 6%;
+}
+
+.secaoDescricao{
+    padding-top: 4%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 1%;
+}
+
+.secaoFormaDePagamento img{
+    width: 100px;
+    height: 100px;
+    margin: 0 10px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.secaoFormaDePagamento {
+
+    padding-top: 3%;
+}
+

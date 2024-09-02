@@ -1,0 +1,17 @@
+@media (max-width: 768px) and (min-width: 576px){
+    .margin{
+        margin: 0px .5px 1rem 0px;
+    }
+}
+
+@media (max-width: 575px){
+    .margin-xs{
+        margin: 0 0 0 8rem;
+    }
+}
+
+@media (max-width: 1400) and (min-width: 1200){
+    .margin{
+        margin: 0px 1rem 1rem 0px;
+    }
+}
