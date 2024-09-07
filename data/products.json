@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nome": "Aventador",
+        "marca": "Lamborghini",
+        "preco": 3243990.90,
+        "imagem": "../img/aventador.png"
+    },
+    {
+        "id": 2,
+        "nome": "911",
+        "marca": "Porsche",
+        "preco": 2910340.90,
+        "imagem": "../img/porsche.png"
+    },
+    {
+        "id": 3,
+        "nome": "Urus",
+        "marca": "Lamborghini",
+        "preco": 1249670.90,
+        "imagem": "../img/lambor.png"
+    },
+    {
+        "id": 4,
+        "nome": "Camaro",
+        "marca": "Chevrolet",
+        "preco": 213049.90,
+        "imagem": "../img/camaro.png"
+    },
+    {
+        "id": 3,
+        "nome": "320i",
+        "marca": "BMW",
+        "preco": 130549.90,
+        "imagem": "../img/320.png"
+    },
+    {
+        "id": 3,
+        "nome": "Golf Sportline",
+        "marca": "Volkswagen",
+        "preco": 36450.80,
+        "imagem": "../img/golf.png"
+    }
+]
